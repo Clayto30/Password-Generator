@@ -8,11 +8,11 @@ First, I structured the directories to fit best practices and rewrote the html j
 
 In order to accomplish the requirments of the challenge, I had to head to the JavaScript source page and write several prompts and alerts that would fulfill the acceptance criteria. Second, I had to write a for loop incorporating the JavaScript Math object that would write a random password from the arrays that I created using the user's preferences, and store the result in an array. Finally I had to join that array as a string and name it so it would appear in the box for the User. Voila! You've got yourself a password! 
 ​
-You can find my password generator at https://clayto30.github.io/friendly-parakeet/
+You can find my password generator at https://clayto30.github.io/Password-Generator/
 ​​​
 ## Installation
 ​
-My password Generator is deployed from my GitHub Repo https://github.com/Clayto30/friendly-parakeet
+My password Generator is deployed from my GitHub Repo https://github.com/Clayto30/Password-Generator
 
 Feel free to head to my website and check it out! Simply answer the prompts, and you will get a password of your desired styling.
 ​
