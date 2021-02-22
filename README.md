@@ -24,7 +24,7 @@ You will be asked how many characters long you would like it to be. Feel free to
 
 Please click "OK" when appropriate to select upper case characters, lower case characters, special characters, and/or numerals. Your password will be made up of a random assortment of whichever groups you choose.
 ​
-(assets/images/screenshot.jpg)
+![alt text](./assets/images/screenshot.jpg)
 ​
 ​
 ## Credits
