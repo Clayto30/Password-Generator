@@ -54,10 +54,11 @@ var passwordKind = function() {
     } else (passwordArray) = (passwordArray);
     
     for (var i = 0; i < passwordNum; i++) {
-      password = passwordArray[Math.floor(Math.random() * passwordArray.length)];
-      holdingArray.push(password);
+      pswd = passwordArray[Math.floor(Math.random() * passwordArray.length)];
+      holdingArray.push(pswd);
     };
     console.log(holdingArray);
+    password = holdingArray.toString();
   }
 
 // Get references to the #generate element
