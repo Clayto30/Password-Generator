@@ -58,7 +58,7 @@ var passwordKind = function() {
       holdingArray.push(pswd);
     };
     console.log(holdingArray);
-    password = holdingArray.toString();
+    password = holdingArray.join('');
   }
 
 // Get references to the #generate element
